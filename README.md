@@ -1,6 +1,6 @@
 # fluent-plugin-fixfile
 
-[Fluentd](http://fluentd.org/) output plugin to output file with fix path.
+[Fluentd](http://fluentd.org/) output plugin to output file at fixed path.
 
 ``output file`` cannot fixed path like ``out_file.%Y%m%d_**.log``.
 
