@@ -6,7 +6,7 @@
 
 ``symlink_path`` don't work at Windows enviroment.
 
-This plugin can output the file at fixed path like ``out_file.log`` for Windows enviroment.
+This plugin can output the file at fixed path like ``out_file.log`` for Windows enviroment..
 
 ## Installation
 
